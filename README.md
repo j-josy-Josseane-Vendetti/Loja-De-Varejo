@@ -1,2 +1,2 @@
-# Loja De Varejo
- Trabalho de  escola
+# Loja De Varejo !
+ Um repositório criado na aula de web III
